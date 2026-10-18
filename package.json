@@ -1,5 +1,5 @@
 {
-  "name": "tertium.icons",
+  "name": "@tertium/icons",
   "version": "0.0.1",
   "description": "Free svg and font icons by Vit Tertiumnon",
   "main": "demo.html",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Tertiumnon/tertium.icons.git"
+    "url": "git://github.com/Tertiumnon/tertium-icons.git"
   },
   "keywords": [
     "icons",
@@ -19,7 +19,7 @@
   "author": "Vit Tertiumnon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tertiumnon/tertium.icons/issues"
+    "url": "https://github.com/Tertiumnon/tertium-icons/issues"
   },
-  "homepage": "https://github.com/Tertiumnon/tertium.icons"
+  "homepage": "https://github.com/Tertiumnon/tertium-icons"
 }
