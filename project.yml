@@ -1,1 +1,25 @@
 type: icon-set
+display_name:
+  en: Tertium Icons
+summary:
+  en: Free svg and font icons by Vit Tertiumnon
+keywords:
+  - icons
+  - svg
+  - font
+status: beta
+languages:
+  - en
+default_language: en
+team:
+  - name: Vit Tertiumnon
+    roles:
+      - owner
+      - developer
+platforms:
+  npm:
+    settings:
+      name: "@tertium/icons"
+distribution:
+  - npm
+data_collected: none
