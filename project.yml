@@ -1,3 +1,17 @@
 type: icon-set
-publish_on:
+slug: tertium-icons
+listed_on:
   - https://tertiumnon.github.io
+display_name:
+  en: "Tertium Icons"
+summary:
+  en: "Free SVG and font icons."
+languages:
+  - en
+default_language: en
+team:
+  - name: Vitalii Balabanov
+    roles:
+      - owner
+      - developer
+    github: Tertiumnon
